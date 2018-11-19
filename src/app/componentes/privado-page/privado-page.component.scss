@@ -1,0 +1,29 @@
+.app {
+    border-radius: 4px;
+    margin-top: 20px;
+    padding: 30px;
+    background: rgb(158, 70, 129);
+}
+
+.container app{
+    margin: 100px;
+    width: 600px;
+}
+.table{
+    background-color: aqua;
+    text-align: left;
+    border-collapse: collapse;
+}
+tr {
+    border: solid 3px black;
+    padding: 0;
+}
+thead{
+    background-color: brown;
+    border-bottom: solid 3px #0c0c0c;
+     color: white;
+}
+h2 {
+    text-align: center;
+    color: blue; 
+}
